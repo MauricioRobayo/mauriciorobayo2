@@ -1,0 +1,12 @@
+---
+title: Double your failure rate
+date: 2024-03-23
+---
+
+> If you want to increase your success rate, double your failure rate.
+
+- Thomas J. Watson
+
+Do not punish for failure. Create a fail-safe environment. Punish not learning from failure.
+
+https://www.youtube.com/watch?v=oU3G6xAAIoo
